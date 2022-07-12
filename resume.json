@@ -1,0 +1,137 @@
+{
+    "basics": {
+        "name": "Harshit Dohare",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/66507614?v=4",
+        "email": "2021kucp1040@iiitkota.ac.in",
+        "phone": "+919454506506",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Lucknow",
+            "postalCode": "226010",
+            "city": "Lucknow",
+            "countryCode": " India",
+            "region": "U.P"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "thegparmar",
+                "url": "https://www.twitter.com/harshit_dohare"
+            },
+            {
+                "network": "Github",
+                "username": "harshitdohare",
+                "url": "https://www.github.com/harshitdohare"
+            },
+            {
+                "network": "linkedin",
+                "username": "harshitdohare",
+                "url": "https://www.linkedin.com/in/harshitdohare/"
+            },
+            {
+                "network": "Instagram",
+                "username": "harshitdohare",
+                "url": "https://instagram.com/harshitdohare"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "4935st Rank in Kick Start 2022",
+            "awarder": "Google",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Git",
+                "C/C++",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Volleyball"
+            ]
+        }
+    ]
+}
